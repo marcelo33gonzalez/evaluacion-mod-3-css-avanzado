@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+/* Styles */
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(163, 163, 73);
+  font-family: "Open Sans";
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  padding: 50px;
+}
+h1 {
+  background-color: rgb(40, 78, 36);
+  color: white;
+  border-style: solid;
+  border-color: rgb(41, 71, 38);
+  padding: 5px;
+  border-radius: 5px;
+}
+.ejercicioUno {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+.ejercicioDos {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+.ejercicioTres {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+.ejercicioCuatro {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+.ejercicioCinco {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+.ejercicioSeis {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+.ejercicioSiete {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+.ejercicioOcho {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+
+.ejercicioNueve {
+  background-color: whitesmoke;
+  border-style: solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  border-radius: 15px;
+}
+
+/* ejercicio 2 */
+
+.rojo {
+  color: red;
+}
+.grande26 {
+  font-size: 26px;
+}
+
+/* ejercicio 3 */
+
+#imgEjercicioTres {
+  width: 500px;
+  border-radius: 100%;
+  padding: 15px;
+}
+
+/* ejercicio 6 */
+
+.imagenesSeis {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+.imagenesSeis img {
+  width: 160px;
+  height: 120px;
+  border-radius: 20%;
+}
+
+/* ejercicio 7 */
+#spEjercicioSiete {
+  display: none;
+}
+/* ejercicio 9 */
+#panel,
+#flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+#panel {
+  padding: 50px;
+  display: none;
+}
